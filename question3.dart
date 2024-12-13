@@ -1,5 +1,5 @@
 void main() {
-  // question 3
+  /* Q.3: Create a list of Days and remove one by one from the end of list. */
   var List = [
     "Monday",
     "Thuesday",

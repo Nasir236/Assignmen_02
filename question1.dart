@@ -1,5 +1,5 @@
 void main() {
-  // Question 1
+  /* Q.1: Create a list of names and print all names using list. */
   // Creating List
   var myList = ["Nasir Hussain", "Zakir shah", "Hazrat Bialal", "Shoaib Khan"];
   print(myList);

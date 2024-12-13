@@ -1,7 +1,8 @@
 import 'dart:math';
 
 void main() {
-  // Question 4
+  /* Q.4: Create a list of numbers & write a program to get the smallest & greatest 
+   number from a list. */
   var myList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
   // get a smallest and gratest
   var gratest_number = max(1, 10);
